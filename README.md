@@ -1,8 +1,9 @@
 # EE250_Final
 #Team members: Robert Zhang and Jiansong Li
 
-#Link to our demo video: https://drive.google.com/file/d/1myDE-PqRci2Lu9yxwQPe_3Xbz_2OvKVm/view?usp=share_link #Instruction:
+#Link to our demo video: https://drive.google.com/file/d/1myDE-PqRci2Lu9yxwQPe_3Xbz_2OvKVm/view?usp=share_link 
 
+#Instruction:
 Firstly, make sure recorder.py and server.py are downloaded on labtop or VM, and lcd.py and client.py are downloaded on your RPi.
 
 Install Python libraries listed in the requirements.txt. Then, run the python file recorder.py to record audio input and get text file output as speech.txt. The API key and endpoint are provided in the code. Then, in order to transfering the text file from labtop to RPi, run the server.py on your labtop, PC, or VM.
