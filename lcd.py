@@ -6,5 +6,4 @@ file = open("./speech.txt", "r")
 for text in file:
         time.sleep(3)
         setText(text)
-        # setText_norefresh(unicdoe_text)
 file.close()
